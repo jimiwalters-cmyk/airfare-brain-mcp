@@ -33,6 +33,7 @@ source and date, and answers with the numbers, so an assistant can say what a fl
 | `list_airlines` | Every airline with a fee table: name, IATA code, the date its fees were checked, its page |
 | `airline_fees` | One airline's extras (bags, seats, priority, check-in, changes, payment): price range, when bought (at booking / later / at the airport), source URL, date checked |
 | `true_cost` | Fare + the extras the person chooses, for the whole party and each flight, with what it costs if added later or at the airport |
+| `trip_at_airport` | The whole trip into one airport: the flight's extras on an airline AND what car hire there really costs (Car Rental Brain's measured median per day), dated and linked |
 
 Ranges are shown exactly as the airline publishes them. A fee the airline does not publish is said to be unknown,
 never counted as free. Figures from a third party (only where the airline publishes none) are labelled "reported".
@@ -44,6 +45,7 @@ never counted as free. Figures from a third party (only where the airline publis
 - "What does Jet2 charge to choose a seat?"
 - "How much more is a bag at the airport than online on Wizz Air?"
 - "Does British Airways' Basic fare include a cabin bag?"
+- "Flying Ryanair into Malaga for a week with a 20kg bag and a hire car: what will it all cost?"
 
 ## Connect
 

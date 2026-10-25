@@ -2,8 +2,8 @@
 
 # Airfare Brain MCP server
 
-**The true cost of a flight, for AI assistants.** Bags, seats, priority boarding, check-in and payment fees on 25
-airlines (Ryanair, easyJet, Wizz Air, Jet2, British Airways, Lufthansa, KLM, Air France, Iberia, Turkish, TAP, Delta, United and more), each price taken from the
+**The true cost of a flight, for AI assistants.** Bags, seats, priority boarding, check-in and payment fees on 29
+airlines (Ryanair, easyJet, Wizz Air, Jet2, British Airways, Lufthansa, KLM, Air France, Iberia, Turkish, Finnair, SAS, Swiss, Austrian, Delta, United and more), each price taken from the
 airline's own pages, with the source and the date it was checked.
 
 Free. No API key. No login. Read-only.

@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.airfarebrain/airfare-brain",
   "title": "Airfare Brain",
-  "description": "True cost of flight extras (bags, seats, fees) on 25 airlines in Europe and North America, sourced.",
-  "version": "1.0.4",
+  "description": "True cost of flight extras (bags, seats, fees) on 29 airlines in Europe and North America, sourced.",
+  "version": "1.0.5",
   "websiteUrl": "https://airfarebrain.com/",
   "icons": [
     {

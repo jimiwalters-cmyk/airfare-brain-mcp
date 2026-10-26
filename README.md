@@ -66,6 +66,17 @@ Or in `claude_desktop_config.json`:
 </details>
 
 <details>
+<summary><strong>Claude Code (plugin)</strong></summary>
+
+```
+/plugin marketplace add jimiwalters-cmyk/airfare-brain-mcp
+/plugin install airfare-brain@airfare-brain
+```
+
+Or add the server directly: `claude mcp add --transport http airfare-brain https://airfarebrain.com/mcp`
+</details>
+
+<details>
 <summary><strong>ChatGPT</strong></summary>
 
 Settings → Apps & Connectors → Advanced → Developer mode → Create → MCP server URL

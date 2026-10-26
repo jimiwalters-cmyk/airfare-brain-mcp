@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "airfare-brain",
+  "description": "Airfare Brain for Claude Code: the true cost of a flight with bags, seats and fees, sourced and dated.",
+  "owner": {
+    "name": "Airfare Brain",
+    "email": "hello@airfarebrain.com"
+  },
+  "plugins": [
+    {
+      "name": "airfare-brain",
+      "description": "True cost of a flight on 29 airlines: bags, seats, priority and fees from each airline's own pages, dated and sourced. Read-only remote MCP server, no sign-in.",
+      "author": { "name": "Airfare Brain" },
+      "category": "travel",
+      "source": "./",
+      "homepage": "https://airfarebrain.com/"
+    }
+  ]
+}

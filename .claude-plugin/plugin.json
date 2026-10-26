@@ -1,0 +1,20 @@
+{
+  "name": "airfare-brain",
+  "displayName": "Airfare Brain",
+  "version": "1.0.5",
+  "description": "The true cost of a flight once the extras are added: bags, seats, priority, check-in and payment fees on 29 airlines in Europe and North America, from each airline's own price pages, every figure dated and sourced. Connects to Airfare Brain's hosted remote MCP server (https://airfarebrain.com/mcp). Read-only, no account, no sign-in.",
+  "author": {
+    "name": "Airfare Brain",
+    "email": "hello@airfarebrain.com",
+    "url": "https://airfarebrain.com"
+  },
+  "homepage": "https://airfarebrain.com/",
+  "repository": "https://github.com/jimiwalters-cmyk/airfare-brain-mcp",
+  "license": "Apache-2.0",
+  "keywords": ["flights", "baggage fees", "airline fees", "travel", "ryanair", "mcp"],
+  "icon": ".claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://airfarebrain.com/privacy/",
+  "supportUrl": "https://airfarebrain.com/privacy/",
+  "documentationUrl": "https://github.com/jimiwalters-cmyk/airfare-brain-mcp",
+  "termsOfServiceUrl": "https://airfarebrain.com/terms/"
+}

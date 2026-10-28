@@ -115,6 +115,16 @@ Each airline's fee pages are read by hand, every value is stored with the page i
 date, and each table is re-checked monthly (a table past its re-check date is flagged on the site). Travellers can
 report what they actually paid; those reports are checked against the tables.
 
+<!-- fee-pages:start (Scripts/public_readme.py) -->
+## Fee pages
+
+The same data as web pages, one per airline (checked bag, cabin bag, seats, with the date and the airline's own source):
+
+[Aer Lingus](https://airfarebrain.com/aer-lingus/) · [Air Canada](https://airfarebrain.com/air-canada/) · [Air France](https://airfarebrain.com/air-france/) · [Alaska Airlines](https://airfarebrain.com/alaska-airlines/) · [American Airlines](https://airfarebrain.com/american-airlines/) · [Austrian Airlines](https://airfarebrain.com/austrian-airlines/) · [British Airways](https://airfarebrain.com/british-airways/) · [Delta Air Lines](https://airfarebrain.com/delta-air-lines/) · [easyJet](https://airfarebrain.com/easyjet/) · [Eurowings](https://airfarebrain.com/eurowings/) · [Finnair](https://airfarebrain.com/finnair/) · [Iberia](https://airfarebrain.com/iberia/) · [Jet2](https://airfarebrain.com/jet2/) · [KLM](https://airfarebrain.com/klm/) · [Lufthansa](https://airfarebrain.com/lufthansa/) · [Norwegian](https://airfarebrain.com/norwegian/) · [Pegasus](https://airfarebrain.com/pegasus/) · [Ryanair](https://airfarebrain.com/ryanair/) · [SAS](https://airfarebrain.com/sas/) · [Swiss](https://airfarebrain.com/swiss/) · [TAP Air Portugal](https://airfarebrain.com/tap-air-portugal/) · [Transavia](https://airfarebrain.com/transavia/) · [Turkish Airlines](https://airfarebrain.com/turkish-airlines/) · [United Airlines](https://airfarebrain.com/united-airlines/) · [Virgin Atlantic](https://airfarebrain.com/virgin-atlantic/) · [Volotea](https://airfarebrain.com/volotea/) · [Vueling](https://airfarebrain.com/vueling/) · [WestJet](https://airfarebrain.com/westjet/) · [Wizz Air](https://airfarebrain.com/wizz-air/)
+
+Compare all airlines: [checked bags](https://airfarebrain.com/compare/checked-bag-prices/) · [cabin bags](https://airfarebrain.com/compare/cabin-bag-prices/) · [seats](https://airfarebrain.com/compare/seat-prices/). Booking through Kiwi.com: [what it adds to bag prices](https://airfarebrain.com/booking-site-bag-fees/). Flights into [124 airports](https://airfarebrain.com/airports/) with the true cost and car hire there.
+<!-- fee-pages:end -->
+
 ## Sister tool
 
 For car hire at the airport you land at: [Car Rental Brain](https://github.com/jimiwalters-cmyk/car-rental-brain-mcp)
